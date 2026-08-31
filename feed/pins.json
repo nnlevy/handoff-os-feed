@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-08-31T02:50:19.868878Z",
+  "day_of_year": 243,
+  "count": 6,
+  "pins": [
+    {
+      "domain": "checkinforwork.com",
+      "name": "CheckInForWork",
+      "caption": "For owner-operators of small field crews (3\u201325): hvac, plumbing, electrical, landscaping, cleaning, construction: Know who started\u2014without tracking everyone all day.",
+      "target_url": "https://checkinforwork.com/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=checkinforwork.com&title=Know%20who%20started%E2%80%94without%20tracking%20everyone%20all%20day.&template=page&path=%2F",
+      "angle": "icp_hook"
+    },
+    {
+      "domain": "doting.co",
+      "name": "Doting",
+      "caption": "Good intentions do not become follow-through. Nurture relationships, one gesture at a time.",
+      "target_url": "https://doting.co/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=doting.co&title=Nurture%20relationships%2C%20one%20gesture%20at%20a%20time.&template=page&path=%2F",
+      "angle": "pain"
+    },
+    {
+      "domain": "growth.business",
+      "name": "Growth.Business",
+      "caption": "On Demand Growth Software \u2014 scattered demand becomes a prioritized sales queue.",
+      "target_url": "https://growth.business/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=growth.business&title=On%20Demand%20Growth%20Software&template=page&path=%2F",
+      "angle": "outcome"
+    },
+    {
+      "domain": "riskfreetrial.org",
+      "name": "RiskFreeTrial.org",
+      "caption": "Never get surprise-charged again. We handle: plain-English offer analysis and trust conversion support.",
+      "target_url": "https://riskfreetrial.org/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=riskfreetrial.org&title=Never%20get%20surprise-charged%20again.&template=page&path=%2F",
+      "angle": "offer"
+    },
+    {
+      "domain": "startbusiness.us",
+      "name": "StartBusiness.us",
+      "caption": "For aspiring & early-stage founders \u2014 yc-adjacent, indie hackers, scrappy operators seeking first paying customer in 30 days: Celebrate your first customer in 30 days.",
+      "target_url": "https://startbusiness.us/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=startbusiness.us&title=Celebrate%20your%20first%20customer%20in%2030%20days.&template=page&path=%2F",
+      "angle": "icp_hook"
+    },
+    {
+      "domain": "watershortcut.com",
+      "name": "WaterShortcut",
+      "caption": "Water bills are confusing. Understand the bill. Find the cause. Take the next right step.",
+      "target_url": "https://watershortcut.com/?utm_source=pinterest&utm_medium=social&utm_campaign=daily_pin",
+      "image_url": "https://www.growth.business/api/og?domain=watershortcut.com&title=Understand%20the%20bill.%20Find%20the%20cause.%20Take%20the%20next%20right%20step.&template=page&path=%2F",
+      "angle": "pain"
+    }
+  ]
+}
