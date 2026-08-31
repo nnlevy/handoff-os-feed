@@ -8,7 +8,7 @@
 // Data source: status.json, regenerated hourly by the handoff-os-uptime-sweep
 // scheduled task and pushed to GitHub.
 
-const STATUS_URL = "https://raw.githubusercontent.com/nnlevy/scripts/main/handoff-os/feed/status.json";
+const STATUS_URL = "https://raw.githubusercontent.com/nnlevy/handoff-os-feed/main/feed/status.json";
 const CACHE_PATH = "handoff-os-status-cache.json";
 
 async function fetchStatus() {
