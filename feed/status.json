@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:23:55.139972Z",
+  "generated_at": "2026-08-31T09:24:57.679859Z",
   "tier1_domains": [
     "checkinforwork.com",
     "doting.co",
@@ -10,26 +10,24 @@
   ],
   "uptime": {
     "up": [
+      "riskfreetrial.org",
       "affordablehome.us",
-      "chatulah.com",
-      "cascadeave.com",
-      "contentasaservice.co",
       "doting.co",
       "quizbiz.org",
-      "riskfreetrial.org",
-      "growth.business",
-      "10-7.org",
-      "buypatioheater.com",
-      "communityinternet.co",
-      "escapeheat.com",
+      "chatulah.com",
       "roofleakatlanta.com",
+      "cascadeave.com",
+      "contentasaservice.co",
+      "growth.business",
+      "escapeheat.com",
       "voicesearch.cc",
-      "checkinforwork.com",
-      "watershortcut.com"
+      "buypatioheater.com",
+      "10-7.org",
+      "communityinternet.co",
+      "watershortcut.com",
+      "checkinforwork.com"
     ],
-    "down": [
-      ""
-    ],
-    "checked": 17
+    "down": [],
+    "checked": 16
   }
 }
