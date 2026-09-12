@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:22:37.560927Z",
+  "generated_at": "2026-09-12T23:22:51.419221Z",
   "tier1_domains": [
     "checkinforwork.com",
     "doting.co",
@@ -27,9 +27,7 @@
       "buypatioheater.com",
       "cascadeave.com"
     ],
-    "down": [
-      ""
-    ],
-    "checked": 17
+    "down": [],
+    "checked": 16
   }
 }
